@@ -1,4 +1,4 @@
-# NLP_beginner
+# Sentiment Analysis
 
 This is my first NLP project; the goal is to learn about the basics
 
