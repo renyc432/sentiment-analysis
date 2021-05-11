@@ -1,5 +1,5 @@
-# NLP_beginner
+# Sentiment Analysis
 
-This is my first NLP project; the goal is to learn about the basics
+Extract sentiment from twitter text by training/finetuning ML models, Bi-LSTM, and BERT.
 
-It uses an example dataset
+Dataset: 1.6M Twitter labeled
